@@ -34,3 +34,12 @@
 # custom file
 test_code.cpp
 settings.json
+01_hello_thread
+01a_hello_functor
+01b_hello_lambda
+02a_thread_function_argument
+02b_thread_func_arg_move
+02c_thread_func_arg_reference
+02d_member_func_as_entry_point
+02e_lambda_exp_as_entry_point
+02f_lambda_exp_as_entry_point_1
